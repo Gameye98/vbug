@@ -19,19 +19,8 @@ python vbug.py
 • Python 2.7.x  
 • OS (Android, Linux)
 
-## Find me at Social Media
-[Telegram (dtlily)](https://t.me/dtlily)  
-[Facebook (cgi.izo)](https://www.fb.com/cgi.izo)  
-[GitLab (dtlily)](https://gitlab.com/dtlily)  
-[GitHub (Gameye98)](https://github.com/Gameye98)  
-[Youtube (dtlily)](https://m.youtube.com/channel/UCx-ohDJBkdKzeXOGZ2hoaMA)  
-[Instagram (dtlily)](https://www.instagram.com/dtlily)
-
 ## Find our team | BlackHole Security
-[Facebook Group](https://mbasic.facebook.com/groups/1704985559810669)  
-[Facebook Page](https://www.facebook.com/BlackHole-Security-2018336478223944)  
 [Telegram Group](https://t.me/BHSec)  
-[Telegram Channel](https://t.me/bhs3c)  
 [GitHub](https://github.com/BlackHoleSecurity)
 
 ## Other project for vbug
